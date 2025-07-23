@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/vCyHcn5R/your-image.png" alt="Profile Image" />
+  <img height="150" src="https://i.ibb.co/3567TZXQ/0022.jpg" alt="Chendze Binwi Keziah" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
@@ -22,26 +22,28 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChendzeBinwiKeziah.ChendzeBinwiKeziah" alt="visitor badge" />
 </div>
 
 ###
 
-<h1 align="center">Hey there! 👋 I'm Chendze</h1>
+<h1 align="center">Hey there! 👋 I'm Chendze Binwi Keziah</h1>
 
-<h3 align="center">🚀 Generative AI Student from [Your City, Country] 🌟</h3>
+<h3 align="center">🚀 Data Scientist from Bamenda, Northwest 🌟</h3>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Generative+AI+Developer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;AI+Developer;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
 
 <br clear="both">
 
 ## 🎯 About Me
 
-I'm Chendze, an enthusiastic student exploring the possibilities of Generative AI. I love experimenting with models, contributing to open source, and bringing ideas to life through code. Passionate about machine learning, creative automation, and the future of AI-powered development.
+I'm Chendze Binwi Keziah, a passionate generative AI student and aspiring data scientist from Bamenda, Cameroon. I'm deeply interested in artificial intelligence, machine learning, and natural language processing. I enjoy working on creative AI projects that solve real-world problems.
+
+I'm currently exploring large language models, transformers, and how generative AI can be used for social good. Always curious, always learning!
 
 ---
 
@@ -50,16 +52,16 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 <div align="center">
 
 ### Languages  
-<img src="https://skillicons.dev/icons?i=python,js,html" height="40" alt="programming languages" />
+<img src="https://skillicons.dev/icons?i=python,js,r" height="40" alt="languages" />
 
 ### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,express,flask" height="40" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40" alt="frameworks" />
 
 ### Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,linux,vscode" height="40" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,jupyter,linux" height="40" alt="tools" />
 
 ### Databases & Cloud  
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" height="40" alt="databases and cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,aws" height="40" alt="databases and cloud" />
 
 </div>
 
@@ -71,9 +73,9 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🎯 **AI Art Generator** | Create stunning visuals from text prompts | `Python`, `OpenAI`, `Flask` | [🔗 View Project](https://github.com/yourusername/project-1) |
-| 🚀 **ChatBot-X** | An AI chatbot that learns from conversations | `Node.js`, `Express`, `LangChain` | [🔗 View Project](https://github.com/yourusername/project-2) |
-| 💡 **Portfolio Site** | Personal site with blog and projects | `React`, `Tailwind`, `Vercel` | [🔗 View Project](https://github.com/yourusername/project-3) |
+| 🎯 **Text2Image-AI** | Turns prompts into visual art using stable diffusion | `Python`, `Hugging Face`, `Streamlit` | [🔗 View Project](https://github.com/YOUR_USERNAME/text2image-ai) |
+| 🚀 **NLP News Classifier** | Classifies fake and real news using ML models | `Python`, `scikit-learn`, `Flask` | [🔗 View Project](https://github.com/YOUR_USERNAME/news-classifier) |
+| 💡 **Portfolio Website** | My interactive resume and blog | `HTML`, `CSS`, `JavaScript` | [🔗 View Project](https://github.com/YOUR_USERNAME/portfolio) |
 
 </div>
 
@@ -81,29 +83,29 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **OpenAI API Hackathon Finalist** – Built an AI-powered study tool  
-- 📜 **DeepLearning.AI – Generative AI with LLMs**  
-- 🎖️ **Google Cloud Certified – Associate Cloud Engineer**
+- 🥇 **AI Hackathon Finalist** – Top 10 finalist in local AI challenge  
+- 📜 **Generative AI with LLMs** – DeepLearning.AI  
+- 🎖️ **Python for Data Science** – IBM
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChendzeBinwiKeziah&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChendzeBinwiKeziah&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChendzeBinwiKeziah&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChendzeBinwiKeziah&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -126,14 +128,14 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 
 <div align="center">
 
-📫 **Reach me at:**
+📫 **Get in touch:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourwebsite.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-💬 **Discord:** chendze#1234  
+💬 **Discord:** Chendze#1234  
 📝 **Blog:** https://yourblog.com
 
 </div>
@@ -146,13 +148,13 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 
 ```ascii
 ┌─ Currently Learning ─────────────────────────────────┐
-│ 📚 LangChain, LlamaIndex                           │
-│ 🚀 Fine-tuning Open Source LLMs                    │
+│ 📚 Prompt Engineering, LangChain, LlamaIndex        │
+│ 🚀 LLM fine-tuning, Model Deployment                │
 └──────────────────────────────────────────────────────┘
 
 ┌─ Open to Collaborate ────────────────────────────────┐
-│ 💡 AI-powered web tools                             │
-│ 🤝 Open source education projects                   │
+│ 💡 Generative AI, NLP, Data Science Projects         │
+│ 🤝 AI for social good, Open source contributions     │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -161,21 +163,21 @@ I'm Chendze, an enthusiastic student exploring the possibilities of Generative A
 ---
 
 <div align="center">
-
-✨ **Fun Fact:** I can generate art with code faster than I can draw it by hand.
+  
+**✨ Fun Fact:** I drink more coffee while coding than a barista makes in a week ☕⚡
 
 ---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-*"Build boldly, iterate fearlessly."*
+*"Great code is poetry in logic."*
 
-⭐ **Star** this repo if you liked it!
+⭐ **Star** this repository if you found it helpful!
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ChendzeBinwiKeziah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
